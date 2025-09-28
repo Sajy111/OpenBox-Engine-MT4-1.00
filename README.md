@@ -22,6 +22,14 @@ Free MT4 EA for GBP/USD
 
 ---
 
+## Account recommendation
+
+- No less 1:500 Leverage
+- Zero spread account (with comission)
+- 1 Minute Timeframe
+- GBP/USD pair for trading
+
+
 ## Recommended Settings
 - Initial lot: **0.01 per $1000**  
 - Example projected monthly returns (with recommended settings):  
@@ -47,3 +55,17 @@ Join our Telegram to follow live trading, discuss strategies, and share results:
 ## Disclaimer
 
 Use this EA **at your own risk**. Margin calls and losses are possible. This is not investment advice.
+
+## Links 
+
+[Download last version](https://github.com/Sajy111/OpenBox-Engine-MT4-1.00/releases/download/v1.0/OpenBox_Engine_mt4_ea.ex4)
+
+## Recommended cashback service
+
+[Fx Cash](https://fxcash.net/?id=X63320) - choose your suitable broker for cashback return. 
+
+If your country is supported by Instaforex broker, it offers the highest cashback (53%). It is recommended to use it through the FxCash cashback service, with a Eurica account type.
+
+
+
+
