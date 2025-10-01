@@ -48,7 +48,7 @@ Free MT4 EA for GBP/USD
 ---
 
 ## Community
-Join our Telegram to follow live trading, discuss strategies, and share results:  https://t.me/poundtracker
+Join our Telegram to follow live trading, discuss strategies, and share results:  [Live Trades Channel](https://t.me/forex_spread_robot)
 
 ---
 
